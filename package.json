@@ -1,5 +1,5 @@
 {
-  "name": "LiriBot",
+  "name": "liribot",
   "version": "1.0.0",
   "main": "liriBot.js",
   "scripts": {
@@ -20,6 +20,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "fs": "0.0.1-security",
+    "loader": "^2.1.1",
     "node-spotify-api": "^1.1.1",
     "request": "^2.88.0",
     "stack": "^0.1.0"
