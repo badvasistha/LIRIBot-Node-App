@@ -14,7 +14,7 @@ var action = process.argv[2];
 var parameter = process.argv.slice(3).join(' ');
 console.log(parameter)
 
-var parameter = process.argv[3]
+// var parameter = process.argv[3]
 
 function switchCase() {
 
@@ -36,9 +36,9 @@ function switchCase() {
       getRandom();
       break;
 
-      // default:                            
-      // logIt("Invalid Instruction");
-      // break;
+      default:                            
+      logIt("Invalid Instruction");
+      break;
 
   }
 };
