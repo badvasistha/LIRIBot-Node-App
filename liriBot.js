@@ -12,7 +12,7 @@ var spotify = new Spotify(keys.spotify);
 var action = process.argv[2];
 
 var parameter = process.argv.slice(3).join(' ');
-console.log(parameter)
+// console.log(parameter)
 
 // var parameter = process.argv[3]
 
@@ -24,7 +24,7 @@ function switchCase() {
       bandsInTown(parameter);                   
       break;                          
 
-    case 'spotify-this-song':
+    case 'spotify-this':
       spotSong(parameter);
       break;
 
@@ -161,7 +161,7 @@ fs.readFile('random.txt', "utf8", function(error, data){
   
     var dataArr = data.split(",");
     
-    if (dataArr[0] === "spotify-this-song") 
+    if (dataArr[0] === "spotify-this") 
     {
       var songcheck = dataArr[1].trim().slice(1, -1);
       spotSong(songcheck);

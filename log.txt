@@ -1021,3 +1021,184 @@ Country: France
 ---------------------------------------------------
 
 City: Pérols
+Invalid Instruction
+Invalid Instruction
+Invalid Instruction
+
+---------------------------------------------------
+
+Artist: Bon Iver
+Song: Holocene
+Preview: https://p.scdn.co/mp3-preview/6190c3f7cf79cbff8ccbb24e4889d67550ee59f6?cid=addcb5f1e83b484f976d9be3577293d0
+Album: Bon Iver
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Khalid
+Song: Young Dumb & Broke
+Preview: null
+Album: American Teen
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Khalid
+Song: Young Dumb & Broke
+Preview: null
+Album: American Teen
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: INEM
+Song: Bad and Bouje
+Error occurred: TypeError: Cannot read property 'preview_url' of undefined
+
+---------------------------------------------------
+
+Artist: Migos
+Song: Bad and Boujee (feat. Lil Uzi Vert)
+Preview: https://p.scdn.co/mp3-preview/dc6abe1f83c2aa660685c67bf7c6010edefae3bb?cid=addcb5f1e83b484f976d9be3577293d0
+Album: Culture
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: The Matrix
+Release Year: 1999
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 88%
+Country: USA
+IMDB Rating: 8.7
+
+---------------------------------------------------
+
+Title: Pulp Fiction
+Release Year: 1994
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster & his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 92%
+Country: USA
+IMDB Rating: 8.9
+
+---------------------------------------------------
+
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/22/2019
+Name: Staples Center
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 06/28/2019
+Name: Industriezone Balendijk
+City: Lommel
+Country: Belgium
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/02/2019
+Name: Stockholm Stadion
+Name: 1 Oak
+City: West Hollywood
+
+---------------------------------------------------
+
+City: Stockholm
+Country: Sweden
+Name: Finsbury Park
+
+---------------------------------------------------
+
+Date: 07/05/2019
+
+---------------------------------------------------
+
+City: London
+Date: 07/06/2019
+Name: Alter Rebstockpark
+City: Frankfurt
+Country: United Kingdom
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/20/2019
+Name: Hippodrome de Longchamp
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 07/21/2019
+Name: Hippodrome  Longchamp
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 08/10/2019
+Name: Honda Center
+City: Anaheim
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+Country: United Kingdom
+Date: 06/21/2019
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 09/20/2019
+Country: United States
+
+---------------------------------------------------
+
+Country: NV
+Name: iHeartRadio Music Festival
+City: Las Vegas
