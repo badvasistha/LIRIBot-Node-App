@@ -1202,3 +1202,45 @@ Country: United States
 Country: NV
 Name: iHeartRadio Music Festival
 City: Las Vegas
+
+---------------------------------------------------
+
+Rotten Tomatoes Rating: 42%
+Country: France
+Language: French
+Plot: A retired mobster goes on a revenge spree after being left for dead with 22 bullets in his body by his former childhood friend.
+Actors: Jean Reno, Kad Merad, Jean-Pierre Darroussin, Marina Foïs
+
+---------------------------------------------------
+
+Title: 22 Bullets
+Release Year: 2010
+IMDB Rating: 6.7
+
+---------------------------------------------------
+
+Title: Breakdown
+Release Year: 1997
+Rotten Tomatoes Rating: 80%
+Country: USA
+IMDB Rating: 6.9
+Language: English
+Plot: A man searches for his missing wife after his car breaks down in the middle of the desert.
+
+---------------------------------------------------
+
+Actors: Kurt Russell, J.T. Walsh, Kathleen Quinlan, M.C. Gainey
+
+---------------------------------------------------
+
+Title: Harry Brown
+Release Year: 2009
+IMDB Rating: 7.2
+Rotten Tomatoes Rating: 63%
+Country: UK
+Language: English
+Plot: An elderly ex-serviceman and widower looks to avenge his best friend's murder by doling out his own form of justice.
+
+---------------------------------------------------
+
+Actors: Michael Caine, Emily Mortimer, Charlie Creed-Miles, David Bradley
