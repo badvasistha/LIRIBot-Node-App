@@ -22,3 +22,8 @@ NPM request
 
 https://badvasistha.github.io/LIRIBot-Node-App/
 https://badvasistha.github.io/Portfolio/
+
+![image](/images/movie-this.png)
+![image](/images/spotify-this.png)
+![image](/images/invalid-command.png)
+![image](/images/concert-this.png)
